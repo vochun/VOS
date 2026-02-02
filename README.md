@@ -8,5 +8,5 @@
 
 
 
-!\[scratch](./images/scratch.jpg)
+!\[scratch](/images/scratch.jpg)
 
